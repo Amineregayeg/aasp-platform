@@ -36,6 +36,13 @@ yarn-error.log*
 # vercel
 .vercel
 
+# secrets
+github.txt
+.pypi-token.txt
+
+# task documents
+tasks/
+
 # netlify
 .netlify
 
